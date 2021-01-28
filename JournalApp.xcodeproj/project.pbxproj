@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		289B2E0425C2C14900937BCF /* RoundedCornerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 289B2E0325C2C14900937BCF /* RoundedCornerView.swift */; };
 		28A65A5125B8351600D20C13 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28A65A5025B8351600D20C13 /* AppDelegate.swift */; };
 		28A65A5325B8351600D20C13 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28A65A5225B8351600D20C13 /* SceneDelegate.swift */; };
 		28A65A5525B8351600D20C13 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28A65A5425B8351600D20C13 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		289B2E0325C2C14900937BCF /* RoundedCornerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedCornerView.swift; sourceTree = "<group>"; };
 		28A65A4D25B8351600D20C13 /* JournalApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JournalApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		28A65A5025B8351600D20C13 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		28A65A5225B8351600D20C13 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				28A65A5925B8351800D20C13 /* Assets.xcassets */,
 				28A65A5B25B8351800D20C13 /* LaunchScreen.storyboard */,
 				28A65A5E25B8351800D20C13 /* Info.plist */,
+				289B2E0325C2C14900937BCF /* RoundedCornerView.swift */,
 			);
 			path = JournalApp;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 				28A65A5525B8351600D20C13 /* ViewController.swift in Sources */,
 				28A65A5125B8351600D20C13 /* AppDelegate.swift in Sources */,
 				28A65A5325B8351600D20C13 /* SceneDelegate.swift in Sources */,
+				289B2E0425C2C14900937BCF /* RoundedCornerView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
